@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 ipykernel = "*"
+numpy = "*"
+opencv-python = "*"
+keras = "*"
 
 [dev-packages]
 
