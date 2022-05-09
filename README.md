@@ -1,3 +1,2 @@
-# Jupyter Notebooks Template
+# Face Mask Detector
 
-Just clone this repository and start writing your notebooks.
