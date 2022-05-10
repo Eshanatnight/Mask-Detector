@@ -9,6 +9,9 @@ numpy = "*"
 opencv-python = "*"
 keras = "*"
 tensorflow = "*"
+imutils = "*"
+matplotlib = "*"
+scipy = "*"
 
 [dev-packages]
 
