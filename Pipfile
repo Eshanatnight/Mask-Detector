@@ -8,6 +8,7 @@ ipykernel = "*"
 numpy = "*"
 opencv-python = "*"
 keras = "*"
+tensorflow = "*"
 
 [dev-packages]
 
